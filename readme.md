@@ -1,5 +1,9 @@
-## Hi there 👋
+## CoolMathGames Mini
+A version of coolmathgames that runs better on school computers.  
+Play at [cmgmini.github.io](https://cmgmini.github.io).
 
+###### All credits go to CoolMathGames and game authors.  
+###### This is not an official CoolMathGames account.
 <!--
 **cmgmini/cmgmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
